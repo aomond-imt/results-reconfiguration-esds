@@ -1,0 +1,72 @@
+esds_generated_data-uptimes-dao-120-sec-sync-update-T1-1-pull:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 202.95
+      1:
+        comms_cons: 0
+        node_conso: 288.72
+      2:
+        comms_cons: 0
+        node_conso: 0.0
+    receives:
+      0:
+        comms_cons: 0.03
+        node_conso: 0
+        tot_msg_received:
+          257: 2
+        tot_msg_responded:
+          257: 2
+      1:
+        comms_cons: 0.26
+        node_conso: 0
+        tot_msg_received:
+          257: 20
+        tot_msg_responded:
+          257: 20
+      2:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 0.0
+      1:
+        comms_cons: 0
+        node_conso: 0.0
+      2:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 0.95
+        node_conso: 0
+        tot_ack_received:
+          257: 125
+        tot_msg_sent:
+          257: 125
+        tot_wait_polling:
+          0.32880000000466225: 1
+          0.4112000000050102: 1
+          1: 123
+      1:
+        comms_cons: 1.15
+        node_conso: 0
+        tot_ack_received:
+          257: 173
+        tot_msg_sent:
+          257: 173
+        tot_wait_polling:
+          0.8021200000175668: 1
+          0.8713600000301085: 1
+          1: 171
+      2:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 6502.49
