@@ -1,0 +1,89 @@
+esds_generated_data-uptimes-dao-60-sec-sync-deploy-T1-2-pull-lora:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 2613.53
+      1:
+        comms_cons: 0
+        node_conso: 2629.68
+      2:
+        comms_cons: 0
+        node_conso: 2572.44
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    receives:
+      0:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+      1:
+        comms_cons: 0.11
+        node_conso: 0
+        tot_msg_received:
+          257: 15
+        tot_msg_responded:
+          257: 2
+      2:
+        comms_cons: 0.31
+        node_conso: 0
+        tot_msg_received:
+          257: 44
+        tot_msg_responded:
+          257: 2
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 0.0
+      1:
+        comms_cons: 0
+        node_conso: 0.0
+      2:
+        comms_cons: 0
+        node_conso: 0.0
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 16.1
+        node_conso: 0
+        tot_ack_received:
+          257: 2443
+        tot_msg_sent:
+          257: 2443
+        tot_wait_polling:
+          0.2952799999038689: 1
+          0.39455999981146306: 3
+          0.3945600006263703: 15
+          0.44703999964985996: 8
+          0.44704000002820976: 4
+          0.5815200000279219: 1
+          0.7608800001471536: 1
+          1: 1719
+      1:
+        comms_cons: 0.01
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      2:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 125208.35

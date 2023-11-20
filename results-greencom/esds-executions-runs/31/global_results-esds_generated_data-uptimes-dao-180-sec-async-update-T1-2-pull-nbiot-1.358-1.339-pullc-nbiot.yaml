@@ -1,0 +1,93 @@
+esds_generated_data-uptimes-dao-180-sec-async-update-T1-2-pull-nbiot:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 255.09
+      1:
+        comms_cons: 0
+        node_conso: 482.04
+      2:
+        comms_cons: 0
+        node_conso: 241.02
+      3:
+        comms_cons: 0
+        node_conso: 1488.87
+    receives:
+      0:
+        comms_cons: 0.01
+        node_conso: 0
+        tot_msg_received:
+          257: 2
+        tot_msg_responded: {}
+      1:
+        comms_cons: 0.09
+        node_conso: 0
+        tot_msg_received:
+          257: 13
+        tot_msg_responded: {}
+      2:
+        comms_cons: 1.2
+        node_conso: 0
+        tot_msg_received:
+          257: 179
+        tot_msg_responded: {}
+      3:
+        comms_cons: 5.0
+        node_conso: 0
+        tot_msg_received:
+          257: 374
+        tot_msg_responded:
+          257: 374
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 28.83
+      1:
+        comms_cons: 0
+        node_conso: 24.73
+      2:
+        comms_cons: 0
+        node_conso: 30.76
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 2.43
+        node_conso: 0
+        tot_ack_received:
+          257: 181
+        tot_msg_sent:
+          257: 181
+        tot_wait_polling:
+          0.04032000001029701: 1
+          0.5143200000018169: 1
+          1: 165
+      1:
+        comms_cons: 2.45
+        node_conso: 0
+        tot_ack_received:
+          257: 177
+        tot_msg_sent:
+          257: 177
+        tot_wait_polling:
+          0.35888000001205: 1
+          1: 176
+      2:
+        comms_cons: 1.41
+        node_conso: 0
+        tot_ack_received:
+          257: 16
+        tot_msg_sent:
+          257: 16
+        tot_wait_polling:
+          0.8400400000011814: 1
+          1: 15
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 7365.35

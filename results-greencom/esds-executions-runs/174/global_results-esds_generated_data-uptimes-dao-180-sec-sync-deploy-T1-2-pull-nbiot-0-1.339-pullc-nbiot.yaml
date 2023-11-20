@@ -1,0 +1,89 @@
+esds_generated_data-uptimes-dao-180-sec-sync-deploy-T1-2-pull-nbiot:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 6508.94
+      1:
+        comms_cons: 0
+        node_conso: 6507.54
+      2:
+        comms_cons: 0
+        node_conso: 6692.4
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    receives:
+      0:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+      1:
+        comms_cons: 0.15
+        node_conso: 0
+        tot_msg_received:
+          257: 21
+        tot_msg_responded:
+          257: 2
+      2:
+        comms_cons: 3.59
+        node_conso: 0
+        tot_msg_received:
+          257: 535
+        tot_msg_responded:
+          257: 2
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 0.0
+      1:
+        comms_cons: 0
+        node_conso: 0.0
+      2:
+        comms_cons: 0
+        node_conso: 0.0
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 31.87
+        node_conso: 0
+        tot_ack_received:
+          257: 4765
+        tot_msg_sent:
+          257: 4765
+        tot_wait_polling:
+          0.0018799999816110358: 1
+          0.0028799999854527414: 1
+          0.3444400000121277: 1
+          0.3608799992070999: 17
+          0.36087999985102215: 4
+          0.3608800004949444: 4
+          0.8269599992927397: 1
+          1: 4735
+      1:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      2:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 105834.84

@@ -1,0 +1,89 @@
+esds_generated_data-uptimes-dao-120-sec-sync-deploy-T1-2-pull-lora:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 1929.72
+      1:
+        comms_cons: 0
+        node_conso: 1928.16
+      2:
+        comms_cons: 0
+        node_conso: 2057.58
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    receives:
+      0:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+      1:
+        comms_cons: 0.3
+        node_conso: 0
+        tot_msg_received:
+          257: 45
+        tot_msg_responded:
+          257: 1
+      2:
+        comms_cons: 0.31
+        node_conso: 0
+        tot_msg_received:
+          257: 44
+        tot_msg_responded:
+          257: 3
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 0.0
+      1:
+        comms_cons: 0
+        node_conso: 0.0
+      2:
+        comms_cons: 0
+        node_conso: 0.0
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 10.6
+        node_conso: 0
+        tot_ack_received:
+          257: 1607
+        tot_msg_sent:
+          257: 1607
+        tot_wait_polling:
+          0.033560000009060786: 1
+          0.46051999981864356: 1
+          0.7844399998575682: 1
+          0.7976000000307977: 1
+          0.8713599996262928: 6
+          0.8713600000301085: 1
+          0.9915199999995821: 1
+          1: 1282
+      1:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      2:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 47294.59

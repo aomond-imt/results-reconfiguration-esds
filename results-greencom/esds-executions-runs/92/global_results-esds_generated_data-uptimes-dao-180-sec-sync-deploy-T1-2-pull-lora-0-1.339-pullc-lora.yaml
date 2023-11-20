@@ -1,0 +1,89 @@
+esds_generated_data-uptimes-dao-180-sec-sync-deploy-T1-2-pull-lora:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 4218.69
+      1:
+        comms_cons: 0
+        node_conso: 4097.34
+      2:
+        comms_cons: 0
+        node_conso: 4098.9
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    receives:
+      0:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+      1:
+        comms_cons: 0.86
+        node_conso: 0
+        tot_msg_received:
+          257: 130
+        tot_msg_responded:
+          257: 1
+      2:
+        comms_cons: 0.03
+        node_conso: 0
+        tot_msg_received:
+          257: 3
+        tot_msg_responded:
+          257: 2
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 0.0
+      1:
+        comms_cons: 0
+        node_conso: 0.0
+      2:
+        comms_cons: 0
+        node_conso: 0.0
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 33.25
+        node_conso: 0
+        tot_ack_received:
+          257: 5051
+        tot_msg_sent:
+          257: 5051
+        tot_wait_polling:
+          0.2659199994377559: 1
+          0.5055999989563134: 11
+          0.5056000000840868: 3
+          0.6400799999435094: 1
+          0.6409999994939426: 1
+          0.7168400009395555: 1
+          0.9985199999937322: 1
+          1: 2707
+      1:
+        comms_cons: 0.01
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      2:
+        comms_cons: 0.01
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 66646.67

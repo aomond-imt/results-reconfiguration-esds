@@ -1,0 +1,90 @@
+esds_generated_data-uptimes-dao-120-sec-sync-deploy-T1-2-pull-nbiot:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 1444.34
+      1:
+        comms_cons: 0
+        node_conso: 1286.83
+      2:
+        comms_cons: 0
+        node_conso: 1285.44
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    receives:
+      0:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+      1:
+        comms_cons: 0.45
+        node_conso: 0
+        tot_msg_received:
+          257: 65
+        tot_msg_responded:
+          257: 2
+      2:
+        comms_cons: 0.23
+        node_conso: 0
+        tot_msg_received:
+          257: 33
+        tot_msg_responded:
+          257: 2
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 0.0
+      1:
+        comms_cons: 0
+        node_conso: 0.0
+      2:
+        comms_cons: 0
+        node_conso: 0.0
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 8.16
+        node_conso: 0
+        tot_ack_received:
+          257: 1217
+        tot_msg_sent:
+          257: 1217
+        tot_wait_polling:
+          0.0018799999979819404: 1
+          0.18427999990581156: 1
+          0.23827999994773563: 1
+          0.2422000000025264: 1
+          0.2674799994783825: 1
+          0.5739199999006814: 1
+          0.5739200003299629: 4
+          0.7487599999112717: 1
+          1: 1035
+      1:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      2:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 33443.19

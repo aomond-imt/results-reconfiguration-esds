@@ -1,0 +1,89 @@
+esds_generated_data-uptimes-dao-120-sec-sync-deploy-T1-2-pull-lora:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 4500.6
+      1:
+        comms_cons: 0
+        node_conso: 4523.31
+      2:
+        comms_cons: 0
+        node_conso: 4499.04
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    receives:
+      0:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+      1:
+        comms_cons: 0.64
+        node_conso: 0
+        tot_msg_received:
+          257: 94
+        tot_msg_responded:
+          257: 3
+      2:
+        comms_cons: 0.13
+        node_conso: 0
+        tot_msg_received:
+          257: 18
+        tot_msg_responded:
+          257: 2
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 27.77
+      1:
+        comms_cons: 0
+        node_conso: 29.44
+      2:
+        comms_cons: 0
+        node_conso: 3.76
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 21.42
+        node_conso: 0
+        tot_ack_received:
+          257: 3251
+        tot_msg_sent:
+          257: 3251
+        tot_wait_polling:
+          0.03355999996210812: 1
+          0.30772000003253197: 1
+          0.7154800010903273: 1
+          0.8713599996262928: 13
+          0.8713600000301085: 2
+          0.8713600012415554: 10
+          0.8759600000130376: 1
+          1: 3056
+      1:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      2:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 111244.94

@@ -1,0 +1,89 @@
+esds_generated_data-uptimes-dao-180-sec-sync-deploy-T1-2-pull-lora:
+  energy:
+    idles:
+      0:
+        comms_cons: 0
+        node_conso: 1206.66
+      1:
+        comms_cons: 0
+        node_conso: 1446.12
+      2:
+        comms_cons: 0
+        node_conso: 1215.35
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    receives:
+      0:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+      1:
+        comms_cons: 0.99
+        node_conso: 0
+        tot_msg_received:
+          257: 150
+        tot_msg_responded:
+          257: 1
+      2:
+        comms_cons: 0.73
+        node_conso: 0
+        tot_msg_received:
+          257: 108
+        tot_msg_responded:
+          257: 3
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_msg_received: {}
+        tot_msg_responded: {}
+    reconfs:
+      0:
+        comms_cons: 0
+        node_conso: 0.0
+      1:
+        comms_cons: 0
+        node_conso: 0.0
+      2:
+        comms_cons: 0
+        node_conso: 0.0
+      3:
+        comms_cons: 0
+        node_conso: 0.0
+    sendings:
+      0:
+        comms_cons: 7.66
+        node_conso: 0
+        tot_ack_received:
+          257: 1161
+        tot_msg_sent:
+          257: 1161
+        tot_wait_polling:
+          0.07468000003063935: 1
+          0.19028000000071188: 1
+          0.2659199994377559: 1
+          0.4492400000399357: 1
+          0.5056000000840868: 1
+          0.6360800000135214: 1
+          0.6680400000295776: 1
+          1: 785
+      1:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      2:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+      3:
+        comms_cons: 0.0
+        node_conso: 0
+        tot_ack_received: {}
+        tot_msg_sent: {}
+        tot_wait_polling: {}
+  time: 21748.99
